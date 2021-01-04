@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-    
-   [![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=AnandD007&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![Anand-Dev's github stats](https://github-readme-stats.vercel.app/api?username=AnandD007&show_icons=true&theme=vue)
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=AnandD007) -->
 
 <!--
